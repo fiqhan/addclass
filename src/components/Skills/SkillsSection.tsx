@@ -1,4 +1,4 @@
-import { DATA_SKILLS } from '../../../tailwind.config';
+import { DATA_SKILLS } from './DATA_SKILLS';
 import ProjectCard from './SkillsCard';
 
 export default function SkilsSection() {
